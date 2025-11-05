@@ -1,0 +1,1 @@
+string speaker_text     #语音识别的文本
